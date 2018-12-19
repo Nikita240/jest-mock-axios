@@ -37,6 +37,6 @@
     "webpack": "^3.10.0"
   },
   "dependencies": {
-    "jest-mock-promise": "^1.0.23"
+    "jest-mock-promise": "github:nikita240/jest-mock-promise"
   }
 }
